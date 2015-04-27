@@ -3,7 +3,8 @@
 
 USING_NS_CC;
 
-AppDelegate::AppDelegate() {
+AppDelegate::AppDelegate() 
+{
 
 }
 
@@ -11,7 +12,8 @@ AppDelegate::~AppDelegate()
 {
 }
 
-bool AppDelegate::applicationDidFinishLaunching() {
+bool AppDelegate::applicationDidFinishLaunching() 
+{
     // initialize director
     auto director = Director::getInstance();
     auto glview = director->getOpenGLView();
