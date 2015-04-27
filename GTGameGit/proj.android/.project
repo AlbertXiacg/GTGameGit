@@ -119,6 +119,11 @@
 			<locationURI>$%7BPARENT-1-PROJECT_LOC%7D/cocos2d</locationURI>
 		</link>
 		<link>
+			<name>cocos2d-x-src</name>
+			<type>2</type>
+			<location>D:/cocos2d-3-x/cocos2d-x-3.2/cocos/platform/android/java/src</location>
+		</link>
+		<link>
 			<name>libcocos2d</name>
 			<type>2</type>
 			<locationURI>PARENT-1-PROJECT_LOC/cocos2d/cocos/2d/platform/android/java/src</locationURI>
